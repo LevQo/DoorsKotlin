@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DoorsKotlin</string>
+    <string name="str_changed_won_num">Побед при изменении выбора:</string>
+    <string name="str_changed_won_percent">Процент побед при измении выбора:</string>
+    <string name="str_not_changed_won_num">Побед без изменения выбора:</string>
+    <string name="str_not_changed_won_percent">Процент побед без измения выбора:</string>
+</resources>
